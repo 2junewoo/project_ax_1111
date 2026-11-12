@@ -1,0 +1,9 @@
+# Claude session transcripts (원본, 개인정보 포함)
+sessions/
+.venv/
+build/
+__pycache__/
+*.blend1
+출력용.zip
+result.json
+.DS_Store
